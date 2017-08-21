@@ -1,0 +1,7 @@
+Boot your Fedora, install liveusb tools:
+
+    sudo dnf install livecd-tools
+
+Build your ISO:
+
+    ./build.sh
